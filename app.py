@@ -3,7 +3,7 @@ import tkinter as tk
 
 def main():
     root = tk.Tk()
-    root.title("My Python App")
+    root.title("My Python App Version Updated")
     root.geometry("300x150")
 
     label = tk.Label(root, text="Hello, this is my app!")
